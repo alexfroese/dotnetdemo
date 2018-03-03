@@ -1,5 +1,13 @@
 # dotnetdemo
 
+a couple things i've learned just by setting this up.
+
+<ol>
+    <li>the automatic scaffolding actually creates really good examples</li>
+    <li>you should probably have different folders for ApiControllers and regular Controllers</li>
+    <li>Visual Studio 2017 is way better than 2013, which is what they still have us using...</li>
+</ol>
+
 you'll need to create a database file inside App_Data called "Sample" in order for this to work. then just run
 
 ```
